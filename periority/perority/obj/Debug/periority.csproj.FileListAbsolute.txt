@@ -1,0 +1,6 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_5\periority\periority\bin\Debug\periority.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_5\periority\periority\bin\Debug\periority.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_5\periority\periority\bin\Debug\periority.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_5\periority\periority\obj\Debug\periority.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_5\periority\periority\obj\Debug\periority.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_5\periority\periority\obj\Debug\periority.pdb

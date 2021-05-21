@@ -1,0 +1,5 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_4\intrupt_method\intrupt_method\bin\Debug\intrupt_method.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_4\intrupt_method\intrupt_method\bin\Debug\intrupt_method.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_4\intrupt_method\intrupt_method\bin\Debug\intrupt_method.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_4\intrupt_method\intrupt_method\obj\Debug\intrupt_method.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_4\intrupt_method\intrupt_method\obj\Debug\intrupt_method.pdb

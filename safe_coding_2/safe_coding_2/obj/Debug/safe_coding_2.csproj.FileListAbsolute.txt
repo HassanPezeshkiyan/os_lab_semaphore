@@ -1,0 +1,6 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_6\safe_coding_2\safe_coding_2\bin\Debug\safe_coding_2.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_6\safe_coding_2\safe_coding_2\bin\Debug\safe_coding_2.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_6\safe_coding_2\safe_coding_2\bin\Debug\safe_coding_2.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_6\safe_coding_2\safe_coding_2\obj\Debug\safe_coding_2.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_6\safe_coding_2\safe_coding_2\obj\Debug\safe_coding_2.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_6\safe_coding_2\safe_coding_2\obj\Debug\safe_coding_2.pdb

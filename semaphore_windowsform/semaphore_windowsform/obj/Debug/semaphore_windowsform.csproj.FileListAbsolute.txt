@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_7\semaphore_windowsform\semaphore_windowsform\bin\Debug\semaphore_windowsform.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_7\semaphore_windowsform\semaphore_windowsform\bin\Debug\semaphore_windowsform.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_7\semaphore_windowsform\semaphore_windowsform\bin\Debug\semaphore_windowsform.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_7\semaphore_windowsform\semaphore_windowsform\obj\Debug\semaphore_windowsform.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_7\semaphore_windowsform\semaphore_windowsform\obj\Debug\semaphore_windowsform.Form1.resources
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_7\semaphore_windowsform\semaphore_windowsform\obj\Debug\semaphore_windowsform.Properties.Resources.resources
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_7\semaphore_windowsform\semaphore_windowsform\obj\Debug\semaphore_windowsform.csproj.GenerateResource.Cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_7\semaphore_windowsform\semaphore_windowsform\obj\Debug\semaphore_windowsform.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_7\semaphore_windowsform\semaphore_windowsform\obj\Debug\semaphore_windowsform.pdb

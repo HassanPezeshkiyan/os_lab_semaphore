@@ -1,0 +1,8 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor_1\semaphore_3\semaphore_3\semaphore_3\bin\Debug\semaphore_3.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor\semaphore_3\semaphore_3\semaphore_3\bin\Debug\semaphore_3.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_3\semaphore_3\semaphore_3\bin\Debug\semaphore_3.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_3\semaphore_3\semaphore_3\bin\Debug\semaphore_3.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_3\semaphore_3\semaphore_3\bin\Debug\semaphore_3.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_3\semaphore_3\semaphore_3\obj\Debug\semaphore_3.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_3\semaphore_3\semaphore_3\obj\Debug\semaphore_3.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphore\semaphore_3\semaphore_3\semaphore_3\obj\Debug\semaphore_3.pdb

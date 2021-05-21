@@ -1,0 +1,12 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor_1\semaphore_2\semaphore_2\semaphore_2\bin\Debug\semaphore_2.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor_1\semaphore_2\semaphore_2\semaphore_2\bin\Debug\semaphore_2.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor_1\semaphore_2\semaphore_2\semaphore_2\bin\Debug\semaphore_2.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor_1\semaphore_2\semaphore_2\semaphore_2\obj\Debug\semaphore_2.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor_1\semaphore_2\semaphore_2\semaphore_2\obj\Debug\semaphore_2.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor_1\semaphore_2\semaphore_2\semaphore_2\obj\Debug\semaphore_2.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor\semaphore_2\semaphore_2\semaphore_2\bin\Debug\semaphore_2.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor\semaphore_2\semaphore_2\semaphore_2\obj\Debug\semaphore_2.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor\semaphore_2\semaphore_2\semaphore_2\obj\Debug\semaphore_2.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor\semaphore_2\semaphore_2\semaphore_2\bin\Debug\semaphore_2.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor\semaphore_2\semaphore_2\semaphore_2\bin\Debug\semaphore_2.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\threads\semaphor\semaphore_2\semaphore_2\semaphore_2\obj\Debug\semaphore_2.csprojResolveAssemblyReference.cache
